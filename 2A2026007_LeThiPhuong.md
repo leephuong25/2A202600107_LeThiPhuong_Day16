@@ -7,7 +7,7 @@
 ## 1. Idea Reframed
 
 **Original idea:**
-> Ứng dụng học Toán lớp 10 dùng AI dẫn dắt học sinh tự tìm ra lời giải thay vì đưa đáp án thẳng và dashboard phân tích cho giáo viên.
+> Hỗ trợ bài tập gợi ý thông minh không cho đáp án. Ứng dụng học Toán lớp 10 dùng AI dẫn dắt học sinh tự tìm ra lời giải thay vì đưa đáp án thẳng và dashboard phân tích cho giáo viên.
 
 **Reframed as a product opportunity:**
 
