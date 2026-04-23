@@ -1,10 +1,9 @@
 # Day 16 Submission v1
 
-
 ## 1. Idea Reframed
 
 **Original idea:**
-> Ứng dụng học Toán lớp 10 dùng AI dẫn dắt học sinh tự tìm ra lời giải thay vì đưa đáp án thẳng và dashboard phân tích cho giáo viên.
+> Một hệ thống bài tập thông minh tập trung vào Toán lớp 10, đóng vai trò như một gia sư Socratic đưa ra các gợi ý từng bước (hint-based) nhưng tuyệt đối không cung cấp đáp án cuối cùng, nhằm dạy học sinh cách tư duy.
 
 **Reframed as a product opportunity:**
 
