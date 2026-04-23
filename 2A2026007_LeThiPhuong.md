@@ -1,15 +1,5 @@
-# Day 16 Submission v2 — Team Adaptive Learning (A20-App-136)
+# Day 16 Submission v1
 
-> **Phiên bản:** v2.0 — Revised & Sharpened  
-> **Ngày:** 23/04/2026  
-> **Trạng thái:** Đã tích hợp phản biện vòng 1 — sẵn sàng cho Day 17
-
----
-
-## Members
-
-| Vai trò | Tên |
-|---|---|
 
 
 ---
